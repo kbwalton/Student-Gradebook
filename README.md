@@ -1,6 +1,6 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}'
+
 Hi my name is Kaliah Walton and I am a Computer engineer. I created this program to help my understanding of different languages and further my Java skills. 
 
 The software I wrote is a simple manual grade book that allows a student to keep track of their grades by entering in each grade that the program will then store and display upon the users command.
